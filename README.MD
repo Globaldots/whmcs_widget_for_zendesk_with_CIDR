@@ -1,0 +1,1 @@
+# CIDR support for WHMCS Zendesk widget
